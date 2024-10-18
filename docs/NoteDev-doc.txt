@@ -1,0 +1,54 @@
+NoteDev RFC
+================================================================================
+
+https://fr.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+
+http 2.0
+===========
+https://datatracker.ietf.org/doc/html/rfc7540
+
+http 1.1
+===========
+https://datatracker.ietf.org/doc/html/rfc7230
+https://datatracker.ietf.org/doc/html/rfc7231
+https://datatracker.ietf.org/doc/html/rfc7232
+https://datatracker.ietf.org/doc/html/rfc7233
+https://datatracker.ietf.org/doc/html/rfc7234
+https://datatracker.ietf.org/doc/html/rfc7235
+https://datatracker.ietf.org/doc/html/rfc7236
+https://datatracker.ietf.org/doc/html/rfc7237
+
+permanent redirection
+=========================
+https://datatracker.ietf.org/doc/html/rfc7538
+
+CGI
+============
+
+https://fr.wikipedia.org/wiki/Common_Gateway_Interface
+https://datatracker.ietf.org/doc/html/rfc3875
+
+
+Cookie
+==============
+https://datatracker.ietf.org/doc/html/rfc6265
+
+https://developer.mozilla.org/fr/docs/Web/HTTP/Cookies
+
+
+lasted
+=====================
+https://datatracker.ietf.org/doc/html/rfc9110
+https://datatracker.ietf.org/doc/html/rfc9111
+https://datatracker.ietf.org/doc/html/rfc9112
+
+
+9114 	HTTP/3 M. Bishop [ June 2022 ] (HTML, TEXT, PDF, XML) (Status: PROPOSED STANDARD) (Stream: IETF, Area: wit, WG: quic) (DOI: 10.17487/RFC9114)
+9113 	HTTP/2 M. Thomson, C. Benfield [ June 2022 ] (HTML, TEXT, PDF, XML) (Obsoletes RFC7540, RFC8740) (Status: PROPOSED STANDARD) (Stream: IETF, Area: wit, WG: httpbis) (DOI: 10.17487/RFC9113)
+9112 	HTTP/1.1 R. Fielding, M. Nottingham, J. Reschke [ June 2022 ] (HTML, TEXT, PDF, XML) (Obsoletes RFC7230) (Also STD0099) (Status: INTERNET STANDARD) (Stream: IETF, Area: wit, WG: httpbis) (DOI: 10.17487/RFC9112)
+9111 	HTTP Caching R. Fielding, M. Nottingham, J. Reschke [ June 2022 ] (HTML, TEXT, PDF, XML) (Obsoletes RFC7234) (Also STD0098) (Status: INTERNET STANDARD) (Stream: IETF, Area: wit, WG: httpbis) (DOI: 10.17487/RFC9111)
+9110 	HTTP Semantics R. Fielding, M. Nottingham, J. Reschke [ June 2022 ] (HTML, TEXT, PDF, XML) (Obsoletes RFC2818, RFC7230, RFC7231, RFC7232, RFC7233, RFC7235, RFC7538, RFC7615, RFC7694) (Updates RFC3864) (Also STD0097) (Status: INTERNET STANDARD) (Stream: IETF, Area: wit, WG: httpbis) (DOI: 10.17487/RFC9110)
+
+
+
+https://www.rfc-editor.org/
